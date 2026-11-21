@@ -44,8 +44,6 @@ The Volunteer Impact Analysis project explores volunteer engagement, campaign pe
 - Bike to Work Day achieved the highest campaign sentiment score of 3.28.
 - Volunteer attendance stood at 77%, while the no-show rate was 23%.
 
-## 🖥️ DASHBOARD PREVIEW
-
 ### Click the dashboard image below to view it on GitHub.
 
 [![Volunteer Impact Dashboard](https://raw.githubusercontent.com/VikkyData/Volunteer-Project/main/DATA%20ANALYSIS%20%28Pivot%2912.png)](https://github.com/VikkyData/Volunteer-Project/commit/aa4a5730c3de4f4975ae4e4990dccb2d03b4f5e1)
