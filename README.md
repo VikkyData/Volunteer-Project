@@ -1,72 +1,80 @@
-# 📊 Volunteer Impact Analysis Dashboard
+# 📊 VOLUNTEER IMPACT ANALYSIS
+
+### Turning Volunteer Data into Meaningful Insights
 
 ## 📌 Project Overview
 
-The Volunteer Impact Analysis project focuses on evaluating volunteer engagement, campaign performance, public sentiment, and participation trends. Using data analysis and interactive dashboard visualization, this project transforms volunteer records into meaningful insights that support better decision-making and improve volunteer program effectiveness.
+The Volunteer Impact Analysis project explores volunteer engagement, campaign performance, public sentiment, and attendance trends. Using Microsoft Excel, I transformed volunteer data into an interactive dashboard that highlights key performance indicators (KPIs) and provides actionable insights to support data-driven decision-making.
 
 ## 🎯 Project Objectives
 
 - Monitor active volunteer participation.
 - Identify missing email records and duplicate entries.
-- Evaluate campaign performance based on public sentiment.
+- Evaluate campaign performance and public sentiment.
 - Analyze public ratings of volunteer causes.
-- Track attendance and no-show rates.
-- Present key performance indicators (KPIs) through an interactive dashboard.
+- Track volunteer attendance and no-show rates.
+- Present findings through an interactive dashboard.
 
-## 🛠️ Tools & Techniques
+## 🛠️ Tools & Skills
 
 - Microsoft Excel
-- Data Cleaning
-- Data Analysis
+- Data Cleaning and Preparation
 - Pivot Tables
-- Charts and Data Visualization
-- Interactive Dashboard Reporting
+- Data Analysis
+- KPI Development
+- Data Visualization
+- Dashboard Design
+- Business Reporting
 
-## 📈 Key Performance Indicators (KPIs)
+## 📈 Key Performance Indicators
 
-The dashboard highlights the following metrics:
-
-| KPI | Result |
+| Metric | Result |
 |---|---:|
 | Active Volunteers | 400 |
 | Missing Emails | 13 |
 | Duplicate Records | 37 |
-| Volunteer Attendance | 77% |
+| Attendance Rate | 77% |
 | No-Show Rate | 23% |
 
-## 🔍 Key Insights
+## 🔍 Key Project Insights
 
-- **Volunteer Engagement:** The project recorded 400 active volunteers.
-- **Data Quality:** 13 missing email records and 37 duplicate records were identified.
-- **Campaign Performance:** Bike to Work Day recorded the highest public sentiment score of 3.28.
-- **Public Ratings:** Cause ratings were analyzed on a scale of 1–5.
-- **Attendance:** 77% of volunteers attended, while 23% did not show up.
+- Recorded 400 active volunteers.
+- Identified 13 missing email records requiring attention.
+- Detected 37 duplicate records to improve data quality.
+- Bike to Work Day achieved the highest campaign sentiment score of 3.28.
+- Volunteer attendance stood at 77%, while the no-show rate was 23%.
 
-## 📊 Dashboard Preview
+## 🖥️ DASHBOARD PREVIEW
 
-![Volunteer Impact Dashboard](DATA%20ANALYSIS%20%28Pivot%2912.png)
+### Click the dashboard image below to view it on GitHub.
 
-## 💡 Business Value
+[![Volunteer Impact Dashboard](https://raw.githubusercontent.com/VikkyData/Volunteer-Project/main/DATA%20ANALYSIS%20%28Pivot%2912.png)](https://github.com/VikkyData/Volunteer-Project/commit/aa4a5730c3de4f4975ae4e4990dccb2d03b4f5e1)
 
-This project demonstrates how data analytics can help organizations understand volunteer participation, identify data quality issues, evaluate campaign effectiveness, and monitor engagement.
+**[View Volunteer Impact Dashboard on GitHub](https://github.com/VikkyData/Volunteer-Project/commit/aa4a5730c3de4f4975ae4e4990dccb2d03b4f5e1)**
 
-The insights provide a foundation for improving volunteer coordination, strengthening campaign strategies, and making data-driven decisions.
+## 💡 Business Impact
 
-## 🧠 Skills Demonstrated
+This project demonstrates how data analytics can help organizations monitor volunteer engagement, improve data quality, evaluate campaign effectiveness, and understand participation patterns.
 
-- Data Cleaning and Preparation
-- Exploratory Data Analysis
-- KPI Development
-- Pivot Table Analysis
-- Dashboard Design
-- Data Interpretation
-- Business Reporting
+The findings can support better volunteer management, strategic planning, and informed organizational decisions.
 
-## 👩‍💻 Project Author
+## 🧠 What I Learned
 
-**VickyData**
+- Cleaning and organizing raw datasets.
+- Identifying and handling duplicate records.
+- Analyzing data using Pivot Tables.
+- Developing meaningful KPIs.
+- Creating interactive Excel dashboards.
+- Communicating analytical findings through visualization.
 
-Aspiring Data Analyst passionate about transforming raw data into meaningful insights that support smarter business decisions.
+## 👩‍💻 About the Analyst
+
+**VikkyData | Aspiring Data Analyst**
+
+Passionate about using data to uncover insights, solve problems, and support smarter business decisions.
 
 ---
-*Thank you for exploring my project!*
+
+⭐ Thank you for visiting my project!
+
+
